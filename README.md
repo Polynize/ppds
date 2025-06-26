@@ -1,6 +1,6 @@
 # Poly Performance Data Schema (v1.0)
 
-⚠ This data standard is under development. Please do not use the information below without emailing contact@polynize.io
+⚠ THIS STANDARD IS UNDER DEVELOPMENT AND THE BELOW IS A PLACEHOLDER ONLY. 
 
 ## Purpose
 The Poly Performance Data Schema is a universal standard designed to capture, structure, and evaluate human performance across a variety of real-world contexts. It supports structured analysis of text, voice, and video-based responses and allows organizations, platforms, and researchers to measure skill-based performance in a transparent, modular, and extensible format.
@@ -149,7 +149,10 @@ PlayerPerformanceReport
 - `frameworkTags`: Attach known evaluation models (e.g. STAR, OKRs)
 - `contextualSignals`: Incorporate time pressure, stakeholder tension, etc.
 
+
 ## Licensing and Usage
 This schema is open and extensible under Creative Commons Attribution-ShareAlike (CC BY-SA). Organizations may adopt and extend it provided attribution is maintained.
 
-Let us know how you’re using the Poly Performance Data Schema. To contribute improvements or propose extensions, please submit a pull request to our GitHub repository.
+## Contact
+
+For more information on the Poly Performance Network and the development of this data standard email contact@polynize.io
