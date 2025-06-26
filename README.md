@@ -1,5 +1,7 @@
 # Poly Performance Data Schema (v1.0)
 
+⚠ This data standard is under development. Please do not use the information below without emailing contact@polynize.io
+
 ## Purpose
 The Poly Performance Data Schema is a universal standard designed to capture, structure, and evaluate human performance across a variety of real-world contexts. It supports structured analysis of text, voice, and video-based responses and allows organizations, platforms, and researchers to measure skill-based performance in a transparent, modular, and extensible format.
 
